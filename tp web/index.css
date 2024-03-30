@@ -1,0 +1,124 @@
+.image{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 5px 19px 5px;
+    
+}
+.hatim{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.nassim{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.ilyes{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.said{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.t1{
+    text-align: center;
+    
+    color:seagreen;
+}
+.t2{
+    margin-left: 20px;
+    color: antiquewhite;
+    
+}
+.t3{
+    text-align: end;
+    font-size: 20px
+   
+}
+ul{
+    text-decoration: none;
+    list-style:none;
+}
+.divmer{
+display: flex;
+}
+.divmer1{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.divmer1:hover{
+    background-color: brown;
+    cursor: grab;
+    width: 500px;
+}
+
+
+
+.divmer2{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.divmer2:hover{
+    background-color:peru;
+    cursor: grab;
+    width: 500px;
+}
+
+.divmer3{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.divmer3:hover{
+    background-color:pink;
+    cursor: grab;
+    width: 500px;
+}
+.divmer4{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.divmer4:hover{
+    background-color: palegreen;
+    cursor: grab;
+    width: 500px;
+}
+.divmer5{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.divmer5:hover{
+    background-color:purple;
+    cursor: grab;
+    width: 500px;
+}
+.btn{
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 8px 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
